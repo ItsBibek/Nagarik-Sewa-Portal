@@ -18,7 +18,8 @@
 /public/fonts-manifest.dev.json
 /public/hot
 /public/storage
-/storage/app/private/
+/storage/app/private/*
+!/storage/app/private/.gitignore
 /storage/*.key
 /storage/pail
 /vendor
